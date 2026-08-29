@@ -1,5 +1,8 @@
 site_name: مستندات پروژه من
 site_url: https://mohammadsafyar.github.io/docs/
+nav:
+  - خانه: index.md
+  - راه‌اندازی: setup.md
 theme:
   name: material
   language: fa
