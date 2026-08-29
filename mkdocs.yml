@@ -1,0 +1,21 @@
+site_name: مستندات پروژه من
+site_url: https://USERNAME.github.io/docs/
+theme:
+  name: material
+  language: fa
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: حالت تاریک
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: حالت روشن
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - content.code.copy
