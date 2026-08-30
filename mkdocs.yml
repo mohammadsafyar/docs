@@ -4,7 +4,14 @@ site_url: https://mohammadsafyar.github.io/docs/
 nav:
   - Home: index.md
   - SQL Server:
-      - Backup: sql-server/backup.md
+      - Backup: sql-server/backup.md 
+  - PostgreSQL:
+      - Overview: postgresql/index.md
+  - Linux:
+      - Overview: linux/index.md
+  - Ansible:
+      - Overview: ansible/index.md
+
 theme:
   name: material
   language: en
