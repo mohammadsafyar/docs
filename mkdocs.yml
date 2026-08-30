@@ -1,24 +1,31 @@
-site_name: مستندات پروژه من
+site_name: Project Documentation
 site_url: https://mohammadsafyar.github.io/docs/
+
 nav:
-  - خانه: index.md
-  - راه‌اندازی: setup.md
+  - Home: index.md
+  - SQL Server:
+      - Backup: sql-server/backup.md
+
 theme:
   name: material
-  language: fa
+  language: en
+
   palette:
     - scheme: default
       primary: indigo
       toggle:
         icon: material/brightness-7
-        name: حالت تاریک
+        name: Switch to dark mode
+
     - scheme: slate
       primary: indigo
       toggle:
         icon: material/brightness-4
-        name: حالت روشن
+        name: Switch to light mode
+
   features:
     - navigation.tabs
     - navigation.top
     - search.suggest
     - content.code.copy
+
