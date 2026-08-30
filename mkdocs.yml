@@ -5,7 +5,6 @@ nav:
   - Home: index.md
   - SQL Server:
       - Backup: sql-server/backup.md
-
 theme:
   name: material
   language: en
@@ -23,12 +22,12 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-features:
-  - navigation.tabs
-  - navigation.top
-  - navigation.sections
-  - navigation.expand
-  - search.suggest
-  - search.highlight
-  - content.code.copy
-  - content.code.annotate
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
