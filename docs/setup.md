@@ -10,7 +10,6 @@ The project uses:
 * MkDocs
 * Material for MkDocs
 * GitHub
-
 ---
 
 ## 1. Prerequisites
