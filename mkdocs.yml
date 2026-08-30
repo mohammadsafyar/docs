@@ -3,8 +3,11 @@ site_url: https://mohammadsafyar.github.io/docs/
 
 nav:
   - Home: index.md
+
+  - Setup:
+      - Getting Started: setup.md
   - SQL Server:
-      - Backup: sql-server/backup.md 
+      - Backup: sql-server/backup.md
   - PostgreSQL:
       - Overview: postgresql/index.md
   - Linux:
