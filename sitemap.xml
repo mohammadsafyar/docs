@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mohammadsafyar.github.io/docs/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mohammadsafyar.github.io/docs/setup/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mohammadsafyar.github.io/docs/ansible/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mohammadsafyar.github.io/docs/linux/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mohammadsafyar.github.io/docs/postgresql/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mohammadsafyar.github.io/docs/sql-server/backup/</loc>
+         <lastmod>2026-08-30</lastmod>
+    </url>
+</urlset>
